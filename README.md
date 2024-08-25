@@ -72,6 +72,7 @@ X FEATURES:
 ![360280519-360feb21-be30-4bc5-b1d4-7afe6d2687c4](https://github.com/user-attachments/assets/bf66f105-3066-44de-af23-f199ce995783)
 
 Y FEATURES:
+
 ![360280585-333fdee7-d153-47a9-93c0-189f05f6c7d7](https://github.com/user-attachments/assets/2bcc17af-776a-4ab2-b11e-735a9bdf5f90)
 
 SPLITTING THE TRAINING AND TESTING DATASET:
